@@ -1,1 +1,1 @@
-Homework assignment for ITSC 4155, highlighting our git familiarily
+Showcasing ability to push/pull and edit files from git
